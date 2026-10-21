@@ -1,0 +1,434 @@
+{
+  "samruddhipatil1116@gmail.com": {
+    "id": "user-samruddhi",
+    "name": "Samruddhi Patil",
+    "email": "samruddhipatil1116@gmail.com",
+    "role": "Lead Security Architect",
+    "organization": "CloudSec Global Labs",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "plan": "Enterprise Pro AI",
+    "token": "sec_tok_cb1d11c98716f3b1",
+    "joinedAt": "2025-01-15",
+    "salt": "5e28a1905873b531f427189a7e5722fd",
+    "passwordHash": "c43a2292e6ad7c2f245c0b0101625bfac5aff95897e3d5f5898e62f4617662afa01c235e345819f883819e5f029acfcbe313032163ace27a5794bdc5fc655697",
+    "stats": {
+      "scansCount": 428,
+      "bugsResolved": 1290,
+      "hoursSaved": 384
+    }
+  },
+  "alex.chen@scaleops.io": {
+    "id": "user-alex",
+    "name": "Alex Chen",
+    "email": "alex.chen@scaleops.io",
+    "role": "Senior Staff Engineer",
+    "organization": "ScaleOps Distributed Systems",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+    "plan": "Enterprise Pro AI",
+    "token": "sec_tok_c267a6e8f58105ac",
+    "joinedAt": "2025-01-15",
+    "salt": "e232b373c5cc33d03d5b4c1917f03a88",
+    "passwordHash": "d07dd6a2f4e149ce65794cef88fe9e10372556295e8f2676466ddd80b5901e2890900b9163cfdd8ccb8472008ba1522f4836fa1bb7a03762bf1942d181820f62",
+    "stats": {
+      "scansCount": 265,
+      "bugsResolved": 742,
+      "hoursSaved": 215
+    }
+  },
+  "elena.r@devquality.net": {
+    "id": "user-elena",
+    "name": "Elena Rostova",
+    "email": "elena.r@devquality.net",
+    "role": "QA Automation Lead",
+    "organization": "DevQuality Assurance",
+    "avatarUrl": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+    "plan": "Developer Cloud",
+    "token": "sec_tok_702190a2c7a323d6",
+    "joinedAt": "2025-01-15",
+    "salt": "051214b95afda80fe9b6f2578e0e5bff",
+    "passwordHash": "cb0b68c99ea1a8088f7dda1a03adfad63c513148d92f68873785456e746af667a9f781e7394891ae16e99f8305814c594c37635437e6e65b10c32ec18bd02dae",
+    "stats": {
+      "scansCount": 189,
+      "bugsResolved": 512,
+      "hoursSaved": 160
+    }
+  },
+  "guest.developer@sandbox.local": {
+    "id": "user-guest",
+    "name": "Guest Developer",
+    "email": "guest.developer@sandbox.local",
+    "role": "Guest Developer",
+    "organization": "Sandbox Workspace",
+    "avatarUrl": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+    "plan": "Community Open",
+    "token": "sec_tok_bda9f5065710420d",
+    "joinedAt": "2025-01-15",
+    "salt": "4802b76e11cad5af249f64782b4cf989",
+    "passwordHash": "36fad0aa1134b40e1f9415f330c6c04cbed4869879588073deec83b5b6cc5b62485e74775b28c09c3601d84b6ac8475bc3d9bb15d04630693745da7e2ac0f15a",
+    "stats": {
+      "scansCount": 14,
+      "bugsResolved": 32,
+      "hoursSaved": 12
+    }
+  },
+  "ayush9@gmail.com": {
+    "id": "usr_789dac441001",
+    "name": "AYUSH",
+    "email": "ayush9@gmail.com",
+    "birthDate": "2006-04-01",
+    "phoneNumber": "1257894130",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=AYUSH",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_1e76ca118d7183186b2b2f9cffff5c1a4c7187e22dd4f7e7",
+    "joinedAt": "2026-09-03",
+    "salt": "b112ab293f91398a0f393f55ea834146",
+    "passwordHash": "34d4b680d6b0e47c4d8d204a7983353e7655ce548a770001d5b00edaf110201f4599e82db5204e19c7efe22880d9038a8098c589c4d896dd53c2d65b758db43a",
+    "stats": {
+      "scansCount": 22,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "testuser999@example.com": {
+    "id": "usr_5be68b7c110f",
+    "name": "Test User",
+    "email": "testuser999@example.com",
+    "birthDate": "1995-05-15",
+    "phoneNumber": "+15551234567",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Test%20User",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_b6f245df8a99430867b23c37d6bcf1546c711e9c0cfb5569",
+    "joinedAt": "2026-09-03",
+    "salt": "dfc07559fa6efb12c2e0438b4c9ed5be",
+    "passwordHash": "b138009694d4e6d653c8894b9a7cb63afe2553af3e943c7348ef75071af83808d2521a97aacc4d2ee08771aeb035c72b7dffc35df1d04c0a0934b8c3cba56c5c",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "alice.tester.persistent@domain.com": {
+    "id": "usr_9676dde1deb2",
+    "name": "Alice Tester",
+    "email": "alice.tester.persistent@domain.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alice%20Tester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_4669e9efe778015ebdd48bfb156a3c0259e1118101d51e6d",
+    "joinedAt": "2026-09-03",
+    "salt": "e1eafe9da0e0770e6f6f5c83c235d86a",
+    "passwordHash": "3519f3b7010e112ef48bb56baa509326816b79432561d86f5d3cec4060d58221f685098b2fcc9ea6d0963116ec7dd6ff6878ea06e80d73afb8ee0a876aea7f7e",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "bob.developer@testcorp.com": {
+    "id": "usr_fb8e4de6089d",
+    "name": "bob.developer",
+    "email": "bob.developer@testcorp.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=bob.developer",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_8e8e8bbdf883d572ea8006b7b54482a44974c7c34d0fc892",
+    "joinedAt": "2026-09-03",
+    "salt": "805ac0a806b10c0068e05d164677f0d2",
+    "passwordHash": "42477a1b284b79061ed705531c568afbded31c29359a10f72260d71c79597223209e6457f0741f67359357afaa8255363842dfe37e6de0d29c318b481de1a384",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "test@example.com": {
+    "id": "usr_d49674cc6e3e",
+    "name": "Tester",
+    "email": "test@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_e629a0e2d6f8f7326a1f227a94f31302cea22b564f5da735",
+    "joinedAt": "2026-09-03",
+    "salt": "ca0d6ce246c161ddaca1ca08f3f8e3e4",
+    "passwordHash": "81fdf97787ed35ccd901e1d3ce159cf00a70b96e210b82becf5788a17411b62af919c42e8094f24b93bd8ad2497f0065bab24e6d7cf7420b004c508a1a8bfc84",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "tester1788442779462@example.com": {
+    "id": "usr_b90a8994c8b7",
+    "name": "Tester",
+    "email": "tester1788442779462@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_1166de919764b0ab542e2421754745e342dff1306e7e6cca",
+    "joinedAt": "2026-09-03",
+    "salt": "b83666ed824f9b313558e5249db2bc7d",
+    "passwordHash": "ed5a8e4260348bcb5c316c7e65ca0fd6869cad3d39fbc14162ed5638eda7de7d134b9b289b6ccbef2ec0b8218b586ed889767cd40ed419e1f6f04b15f08625db",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "tester1788442782823@example.com": {
+    "id": "usr_667733e533f8",
+    "name": "Tester",
+    "email": "tester1788442782823@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_d098e37a17ebc3d276f7624790ecc9ebeb4f6efc06d2883a",
+    "joinedAt": "2026-09-03",
+    "salt": "aab78bb76369944c03683e976ab7f1f4",
+    "passwordHash": "33079805bb30d01c833ff1d478f8df904501afa90ea920d15814bb0ae97e9bddbaa5e36532b94e561b62aaa3f90c3f6993d146519dfae7fe341e0c6112db8157",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "tester1788442889433@example.com": {
+    "id": "usr_bc7ff2246e13",
+    "name": "Tester",
+    "email": "tester1788442889433@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_bb285f4759d90ece215ef2214199edd89492109f8efa7c3f",
+    "joinedAt": "2026-09-03",
+    "salt": "c4b30b9a8323b46e81e69527c7d9e6ce",
+    "passwordHash": "a457e128e1d9cbb22e80579413eb05ccc4da074bd32d8c1d109fe46486a0e13b760e5fd9fc56068b038a5abe9a3597fff075c397b3dc499cad5a9836fbda6770",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "tester1788442913208@example.com": {
+    "id": "usr_f2811e949879",
+    "name": "Tester",
+    "email": "tester1788442913208@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_dd9d80c77a2014d4a4d62414d68211bd0a1b2f6eec6efdfa",
+    "joinedAt": "2026-09-03",
+    "salt": "7ec8a267ce14c65840d80539cd00f673",
+    "passwordHash": "96554ffde4d9d2a3a624cd9ff9be86c14b87f9d4fd9c701edd7c57e7554c4bc3f170bd2bb2ba1016744bca3bfba941942258477eff8d41d3f2b9f1c617bd2bb4",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "tester1788442924543@example.com": {
+    "id": "usr_45c3c9e0dc36",
+    "name": "Tester",
+    "email": "tester1788442924543@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_d453ea59936b687d563a251135e0aeb8cf8cb31c6a8044e8",
+    "joinedAt": "2026-09-03",
+    "salt": "67e0f8c16db8d027e324a19b6f7292ce",
+    "passwordHash": "62899878d8e09c74a8915050d162f6183e7f59bc0dbcdf239ddc555e8dff4b2b4428f3e10a941808ac1b68b1df1ee7dc47fc32a6fe8a714b2342595c5f6e872c",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "gemini_test_1788443417917@example.com": {
+    "id": "usr_a58a659f6026",
+    "name": "GeminiTester",
+    "email": "gemini_test_1788443417917@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=GeminiTester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_53cc3b6918a68ce5621e25072ce89db8b84872acfd42ba3f",
+    "joinedAt": "2026-09-03",
+    "salt": "90178b3edd4db52e72b7cd832229ff09",
+    "passwordHash": "1b084cd70f707dd8ca8cdb025f52538ba9c4f98d057637c3b276b1fbc4cd82a474b453902adf96096ffa0c8df5f1772946655acbe0f1e2bcdfe621046c59674a",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "fixtester1788527476505@example.com": {
+    "id": "usr_8e2ec23df5e8",
+    "name": "FixTester",
+    "email": "fixtester1788527476505@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=FixTester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_f4fce34943aff04af171662c1000706a04a9d6e6fb3fbab2",
+    "joinedAt": "2026-09-04",
+    "salt": "e366d82b2db852e56481f59d419ed3b7",
+    "passwordHash": "582f679bd49553c5eb99305b5f1c3b4f8f25749d888fabd91ce4c49b5689a0288ffebca0b759b131484650ec5a6021ceccbc92bd9acf44116518ebbabd9c1157",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "valtest_1788527543369@example.com": {
+    "id": "usr_2c59e9e18b8c",
+    "name": "ValTester",
+    "email": "valtest_1788527543369@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=ValTester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_034d26b6c05e2e0c3182079b7958697e8e92fe1fdcadd6b9",
+    "joinedAt": "2026-09-04",
+    "salt": "a6dc8967c084875349f99c39bc102524",
+    "passwordHash": "460dd28fb24a37b6519a78531b0eac03405525deccccc133c343f59064d2dbd2699b1812db06acd07e38c51d14523fd2b1122f4a6373a5e5cc5651dd3b029c15",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "fixtest_1788527823107@example.com": {
+    "id": "usr_7a99d9c933ed",
+    "name": "FixUser",
+    "email": "fixtest_1788527823107@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=FixUser",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_6250a1775c71e8ebfb239a887b17bd46e262121b0f1f1596",
+    "joinedAt": "2026-09-04",
+    "salt": "e01bd6dce798983427da51e3e584022e",
+    "passwordHash": "6aff2388ee414d2bc588b15a3be9a6e6f27ed61403f1a0bc4a30298bba89b9b24671f38df85dead4c6b09495da81b03e2c7d1d3760b9cb1b17c113c781721501",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "fixtest2_1788527890786@example.com": {
+    "id": "usr_6efa1c453029",
+    "name": "FixUser2",
+    "email": "fixtest2_1788527890786@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=FixUser2",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_c73b865cfe1dbdc44a09d9309b09e0a46d103167920f3950",
+    "joinedAt": "2026-09-04",
+    "salt": "5b6c276515c1f7f113c7196665a17e30",
+    "passwordHash": "a623054d713756be9fee024c19caf5c7ceb342908aac085eedfb44000da6c6e3e85617fe60636f119902172fc294d523724c2d343613c102222d58a436b8e290",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "quota_tester_1788532383946@example.com": {
+    "id": "usr_abddcb7d6e7f",
+    "name": "Quota Tester",
+    "email": "quota_tester_1788532383946@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Quota%20Tester",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_68b475e4ecdb00c4f2a80c0e9c62329053b7ea581abd62a1",
+    "joinedAt": "2026-09-04",
+    "salt": "2f05d28575165f5b9b852ddbb55080fd",
+    "passwordHash": "38c07f256ed211ce1a36e2880f9b054fdf6c2e5c9769b35a66fc75d42955c5af75277f31c5b4e5fa1a99700a36fe05e629a7ba1cb7f914e6a102d06a5564aba5",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "tabtest_1788532427479@example.com": {
+    "id": "usr_905e53144e07",
+    "name": "Tab User",
+    "email": "tabtest_1788532427479@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tab%20User",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_0e554ee1b216dbae24630797944df884e2fba34984dc33a2",
+    "joinedAt": "2026-09-04",
+    "salt": "a8359cc6ad2051a67623560d6e70b456",
+    "passwordHash": "8df621a708ffe080a656b136af178d71602049649e19b7ee914b6543300e65e6108f3d9df3581d6a13a8ac6772ff1600958ac145828c8974038269ed98174f3d",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  },
+  "tabtest2_1788532435068@example.com": {
+    "id": "usr_023516490432",
+    "name": "Tab User 2",
+    "email": "tabtest2_1788532435068@example.com",
+    "birthDate": "",
+    "phoneNumber": "",
+    "role": "Full-Stack Reviewer",
+    "organization": "Engineering Team",
+    "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Tab%20User%202",
+    "plan": "Enterprise Pro AI",
+    "token": "jwt_sec_d108f4068e653ffa34cbb4d5bd8680fcf0f88d621ad3c968",
+    "joinedAt": "2026-09-04",
+    "salt": "de1a1636b50b76f851944ce48a5a5f8a",
+    "passwordHash": "98623c2e2552b549b7e8d980fdb1bf19ca649213e8517c1b583509e947258c1a7156b33d54668a80a165e0f78bc789bcfc75e81a1323123c5e909fe0df5e0be1",
+    "stats": {
+      "scansCount": 0,
+      "bugsResolved": 0,
+      "hoursSaved": 0
+    }
+  }
+}

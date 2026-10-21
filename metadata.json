@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Intelligent Bug Detector",
+  "description": "Multi-language intelligent code analysis and bug detection system supporting Python, JavaScript, TypeScript, Java, C, and C++ with static and AI-powered reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
